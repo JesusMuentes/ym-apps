@@ -1,0 +1,3 @@
+versionName=32.0
+webpageUrl=https://ymmods.net/
+dialogTitle=YMWhatsApp+ v32.0
