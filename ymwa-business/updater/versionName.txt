@@ -1,0 +1,3 @@
+versionName=22.1
+webpageUrl=https://ymwhatsapp.com/ymwa-business/
+dialogTitle=YMWA Business v22.1!
