@@ -1,3 +1,4 @@
 versionName=33.0
 webpageUrl=https://ymmods.net/
 dialogTitle=YMWhatsApp v32.0
+changelogUrl=https://raw.githubusercontent.com/JesusMuentes/YM/main/YMWA_CHANGELOG.html
