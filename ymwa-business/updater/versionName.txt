@@ -1,3 +1,3 @@
-versionName=24.1
+versionName=25.0
 webpageUrl=https://bit.ly/45zSVLR
-dialogTitle=YMWA Business v24.1
+dialogTitle=YMWA Business v25.0
