@@ -1,3 +1,2 @@
 versionName=35.5
-webpageUrl=https://bit.ly/45BuE7Z
-dialogTitle=YMWhatsApp v35.5
+webpageUrl=https://ymmods.net/
