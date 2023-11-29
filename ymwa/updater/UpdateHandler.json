@@ -3,11 +3,11 @@
     "webpageUrl": "https://ymmods.net/",
     "subTitle": "What's news in v35.5?",
     "changeLog": [
-        "* New base updated to 2.23.23.78 - Stable version.",
-        "* New colors and icons enabled.",
-        "* Fixed download statuses on some devices.",
-        "* Fixed malware detection in antiviruses.",
-        "* Fixed the lag, it's smooth again.",
-        "* Other fixes and improvements."
+        "[NEW] New base updated to 2.23.23.78 - Stable version.",
+        "[NEW] New colors and icons enabled.",
+        "[Fixed] Fixed download statuses on some devices.",
+        "[Fixed] Fixed malware detection in antiviruses.",
+        "[Fixed] Fixed the lag, it's smooth again.",
+        "[Fixed] Other fixes and improvements."
       ]
 }
