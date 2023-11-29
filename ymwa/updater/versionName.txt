@@ -1,3 +1,2 @@
 versionName=35.5
 webpageUrl=https://ymmods.net/
-changelog=https://raw.githubusercontent.com/JesusMuentes/ym-apps/main/ymwa/updater/clog.html
