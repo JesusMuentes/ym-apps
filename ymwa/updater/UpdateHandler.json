@@ -1,13 +1,4 @@
 {
     "versionName": "35.5",
-    "webpageUrl": "https://ymmods.net/",
-    "subTitle": "v35.5 Changes:",
-    "changeLog": [
-        "— New base updated to 2.23.23.78 - Stable version.",
-        "— New colors and icons enabled.",
-        "— Fixed download statuses on some devices.",
-        "— Fixed malware detection in antiviruses.",
-        "— Fixed the lag, it's smooth again.",
-        "— Other fixes and improvements."
-      ]
+    "webpageUrl": "https://ymmods.net/"
 }
