@@ -1,2 +1,2 @@
-versionName=36.0
+versionName=36.2
 webpageUrl=https://ymmods.net/
